@@ -10,7 +10,7 @@ Developing tools and working on making a course on how to start hacking
 ```
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 	- Start working on big projects
-	- Start learning more languages
+	- Start learning more programming languages
 	- Try to make my own language with it's own compiler
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
 	- Help others through free courses and content
